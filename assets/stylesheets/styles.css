@@ -1,0 +1,17 @@
+
+h1 {
+    margin: 5px;
+	padding: 5px;
+	border: 5px;
+    color: black;
+    font-size: 24px; 
+    font-weight: bold;
+}
+
+p {
+    margin: 5px;
+	padding: 5px;
+	border: 5px;
+    color: orange;
+    font-size: 16px; 
+}
